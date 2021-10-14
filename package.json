@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello world smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timothy",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.6.5"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
